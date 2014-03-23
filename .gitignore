@@ -1,4 +1,4 @@
 out/
-.idea/workspace.xml
+.idea/
 target/
-.idea/libraries/Maven__*.xml
+*.iml
